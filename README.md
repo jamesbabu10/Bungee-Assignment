@@ -30,8 +30,8 @@ Before you begin, ensure you have met the following requirements:
 
 3. Create a `.env` file in the root directory and add your OMDB API key:
    ```
-   API_KEY=your_api_OMDB_key_here
-   BASE_URL=omdb_base_url - http://www.omdbapi.com/
+   REACT_APP_API_KEY=your_api_OMDB_key_here
+   REACT_APP_API_URL=omdb_base_url - http://www.omdbapi.com/
    ```
 
 4. Start the development server:
